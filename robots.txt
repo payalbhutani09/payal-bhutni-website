@@ -1,4 +1,2 @@
-User-Agent: *
-Allow: /
-
-Sitemap: https://www.payalbhutani.website/sitemap.xml
+User-agent: *
+Disallow: /
